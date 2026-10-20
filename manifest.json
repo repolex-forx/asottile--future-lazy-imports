@@ -1,0 +1,24 @@
+{
+  "manifest_version": "1.0",
+  "org": "asottile",
+  "repo": "future-lazy-imports",
+  "versions": [
+    {
+      "commit": "dbde88318526116b30df6592d5582ffaf53ceba4",
+      "parsed_at": "2026-10-20T21:14:46.188785+00:00",
+      "filetree": "filetree/dbde88318526116b30df6592d5582ffaf53ceba4.nq.gz",
+      "blobs": [
+        "blob/063b90947572cd45ac98b71234984f7e0c78c4ee.nq.gz",
+        "blob/649379c41a072b8adc33d1bf91bf029ac6bf8c09.nq.gz",
+        "blob/c2e8a5d1bb522dbeb48c312adcc125a96bf93b98.nq.gz",
+        "blob/c484d49d5bc6539b1b517b686535d60c2b0954e5.nq.gz",
+        "blob/58859313750f2c7a9720940740a5b83bcdf9cdc7.nq.gz",
+        "blob/ca1d90ea180858ae143c0e62d920e350d3acc62d.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
