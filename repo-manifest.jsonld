@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/asottile/future-lazy-imports/commit/dbde88318526116b30df6592d5582ffaf53ceba4",
       "git:hexsha": "dbde88318526116b30df6592d5582ffaf53ceba4",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/asottile/future-lazy-imports/commit/84dc528a4bb3b7dca467554575d1fa53936309f0",
